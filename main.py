@@ -9,3 +9,4 @@ print('new branch dev')
 
 if __name__ == '__main__':
     print_hi('PyCharm')
+    print('main, text1.txt, text2.txt')
